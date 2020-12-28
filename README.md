@@ -1,6 +1,10 @@
 # DeepLearningSchool
 My homeworks:
 
+### Знакомство с sklearn
+[sklearn и knn](https://github.com/AndreyBuynov/DeepLearningSchool/blob/main/1-homework_adv_knn.ipynb) - в этом домашнем задании знакомимся с библиотекой sklearn, ее основными функциями и пробуем работать с моделью knn
+
+
 ### Знакомство с PyTorch
 [logits](https://github.com/AndreyBuynov/DeepLearningSchool/blob/main/04-%5Bhomework%5DHW.ipynb) - в этом домашнем задании необходимо написать модуль на PyTorch реализующий функцию logits. Иными словами необходимо вручную реализовать модуль nn.Linear
 
