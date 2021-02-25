@@ -1,4 +1,6 @@
 # DeepLearningSchool
+
+# Семестр 1 (Computer vision)
 My homeworks:
 
 ### Знакомство с sklearn
@@ -17,3 +19,8 @@ My homeworks:
 
 ### Курсовой проект по детекции
 [Детекция объектов на картинках](https://github.com/AndreyBuynov/DeepLearningSchool/blob/main/Buynovskiy_project_detection.ipynb) - Курсовой проект, в котором на примере использования предобученной нейронной сети необходимо было выбрать датасет из любых существующих, создать свой Dataloader, дообучить сеть на новом датасете под необходимые классы и объекты и посчитать метрику работы получившейся модели.
+
+# Семестр 2 (NLP)
+
+### Простые эмбеддинги
+[Simple embeddings](https://github.com/AndreyBuynov/DeepLearningSchool/blob/main/%5Bhomework%5Dsimple_embeddings.ipynb) - домашнее задание по знакомству с токенизацией, нормализацией текста и простым эмбеддингам. Некоторые метрики в NLP
