@@ -25,4 +25,5 @@ My homeworks:
 ### Простые эмбеддинги
 [Simple embeddings](https://github.com/AndreyBuynov/DeepLearningSchool/blob/main/%5Bhomework%5Dsimple_embeddings.ipynb) - домашнее задание по знакомству с токенизацией, нормализацией текста и простым эмбеддингам. Некоторые метрики в NLP
 
+### Эмбеддинги (Word2Vec)
 [Embeddings](https://github.com/AndreyBuynov/DeepLearningSchool/blob/main/%5Bhomework%5Dembeddings.ipynb) - домашнее задание по семантической классификации твитов с помощью эмбеддингов
